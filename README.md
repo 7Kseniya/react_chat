@@ -1,3 +1,5 @@
-# React + Vite
+# simple chat web application for learning react
 
-simple chat web application for learning react
+React + Vite
+
+
